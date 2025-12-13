@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there, I'm Priyanshu! 👋
 
-<!--
-**Mohit2399999/Mohit2399999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **2nd-year BCA Student** at **City Premier College, Nagpur**, passionate about Frontend Development and building real-world web applications.
 
-Here are some ideas to get you started:
+- 🔭 **I’m currently working on:** A dynamic **Live Weather Application** using React and REST APIs.
+- 🌱 **I’m currently learning:** Advanced **Next.js** workflows and mastering **C++** data structures.
+- 👯 **I’m looking to collaborate on:** Open-source frontend projects and UI/UX design challenges.
+- 💬 **Ask me about:** React.js, Tailwind CSS, and HTML/CSS responsiveness.
+- 📫 **How to reach me:** [mohitsuryawanshi2322@gmail.com](mailto:mohitsuryawanshi2322@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ **Languages & Tools**
+
+| **Frontend** | **Languages** | **Tools** |
+| :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+| ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | |
+
+---
+
+### 📊 **GitHub Stats**
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohit2399999&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit2399999&layout=compact&theme=radical)
