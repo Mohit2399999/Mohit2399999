@@ -1,7 +1,8 @@
 
 <div align="center">
-  <img src="./cosmic-banner.jfif" width="100%" alt="Cosmic Banner">
+  <img src="./manga-banner.jpg" width="100%" alt="To become a star you must burn">
 </div>
+
 
 <div align="center">
   <h2>👋 Hey there! I'm Priyanshu</h2>
