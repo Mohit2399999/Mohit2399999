@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./manga-banner.jpg" width="100%" alt="To become a star you must burn">
+  <img src="./spiderman-banner.png" width="100%" alt="Spider-Man Banner">
 </div>
 
 
