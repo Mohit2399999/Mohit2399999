@@ -1,5 +1,9 @@
 
 <div align="center">
+  <img src="./cosmic-banner.png" width="100%" alt="Cosmic Banner">
+</div>
+  
+<div align="center">
   <img src="./cosmic-banner.png" width="100%" alt="Cosmic profile banner"/>
 </div>
 
