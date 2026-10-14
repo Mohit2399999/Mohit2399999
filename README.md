@@ -1,8 +1,7 @@
 
 <div align="center">
-  <img src="./cosmic-banner.png" width="100%" alt="Cosmic Banner">
+  <img src="./cosmic-banner.jfif" width="100%" alt="Cosmic Banner">
 </div>
-
 
 <div align="center">
   <h2>👋 Hey there! I'm Priyanshu</h2>
