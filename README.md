@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./assets/cosmic-banner.png" width="100%" alt="Cosmic Banner" style="border-radius: 12px;">
+  <img src="./assets/header-banner.jpg" width="100%" alt="Banner" style="border-radius: 12px;">
 </div>
 
 <br/>
