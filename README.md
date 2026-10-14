@@ -1,51 +1,38 @@
 
 <div align="center">
-  <img src="./spiderman-banner.png" width="100%" alt="Spider-Man Banner">
+  <img src="./assets/cosmic-banner.png" width="100%" alt="Cosmic Banner" style="border-radius: 12px;">
 </div>
 
+<br/>
 
 <div align="center">
-  <h2>👋 Hey there! I'm Priyanshu</h2>
-  <p><b>BCA Student · Developer · Tech Enthusiast</b></p>
-
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJECTS-172554?style=for-the-badge&logo=github&logoColor=79C0FF"/>
+  <a href="https://github.com/Mohit2399999?tab=repositories">
+    <img src="https://img.shields.io/badge/PROJECTS-white?style=for-the-badge&logo=github&logoColor=black"/>
+  </a> &nbsp;
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LINKEDIN-white?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a> &nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a> &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/RESUME-white?style=for-the-badge&logo=googledrive&logoColor=black"/>
   </a>
 </div>
 
-<hr/>
+<br/>
 
-<table>
-<tr>
-<td width="65%" valign="top">
+### › Hey there! I'm Priyanshu 👋
 
-<h3>🪐 About Me</h3>
-
-<p><b>Computer Applications Student</b></p>
-
-<p>
-I'm from India and passionate about programming,
-web technologies, and building useful digital experiences.
-</p>
-
-<ul>
-<li>🎓 Studying BCA</li>
-<li>💻 Learning frontend development</li>
-<li>⚡ Exploring JavaScript and React</li>
-<li>🌱 Improving through hands-on projects</li>
-<li>🚀 Always experimenting with new ideas</li>
-</ul>
-
-</td>
-<td width="35%" align="center" valign="middle">
-
-<img src="./quote-banner.jpg" width="100%" alt="The less you care, the more you live"/>
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td>
+      <b>BCA Student & Frontend Developer</b> | Class of 2026<br><br>
+      I am based in India and deeply passionate about crafting clean, modern web applications and building useful digital experiences.<br><br>
+      Currently, I'm focusing my energy on mastering <b>JavaScript and React</b>, building responsive user interfaces, and exploring full-stack web technologies. My technical playground revolves around HTML, CSS, JavaScript, React, Node.js, and modern developer tools.<br><br>
+      Always experimenting, learning through hands-on projects, and turning ideas into functional code.
+    </td>
+  </tr>
 </table>
 
 <hr/>
@@ -54,11 +41,11 @@ web technologies, and building useful digital experiences.
 
 <h3>📊 GitHub Analytics</h3>
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=Mohit2399999&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages"/>
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit2399999&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages"/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true" alt="Contribution activity"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit2399999&theme=github-compact&hide_border=true&area=true" alt="Contribution activity"/>
 
 </div>
 
@@ -80,7 +67,7 @@ web technologies, and building useful digital experiences.
 
 <p>Learning, experimenting, and building one project at a time.</p>
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<a href="https://github.com/Mohit2399999?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
 </a>
 
