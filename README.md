@@ -1,116 +1,92 @@
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08090D,100:252B42&height=100&section=header" width="100%" />
-
-<img src="./quote-banner.jpg" width="100%" alt="The less you care, the more you live" />
-
-# Hi, I'm Priyanshu! 👋
-
-**🎓 BCA Student · 💻 Developer · 🚀 Tech Enthusiast**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME)
-[![Repositories](https://img.shields.io/badge/Explore-Projects-5865F2?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME?tab=repositories)
-
+  <img src="./cosmic-banner.png" width="100%" alt="Cosmic profile banner"/>
 </div>
 
----
+<div align="center">
+  <h2>👋 Hey there! I'm Priyanshu</h2>
+  <p><b>BCA Student · Developer · Tech Enthusiast</b></p>
 
-## 👨‍💻 About Me
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+    <img src="https://img.shields.io/badge/PROJECTS-172554?style=for-the-badge&logo=github&logoColor=79C0FF"/>
+  </a>
+</div>
+
+<hr/>
 
 <table>
 <tr>
 <td width="65%" valign="top">
 
-| | About |
-|:--|:--|
-| 🎓 | BCA Student |
-| 💻 | Learning Web Development |
-| 🌱 | Exploring React & JavaScript |
-| 🎯 | Building my developer skills |
-| 📍 | India |
+<h3>🪐 About Me</h3>
+
+<p><b>Computer Applications Student</b></p>
+
+<p>
+I'm from India and passionate about programming,
+web technologies, and building useful digital experiences.
+</p>
+
+<ul>
+<li>🎓 Studying BCA</li>
+<li>💻 Learning frontend development</li>
+<li>⚡ Exploring JavaScript and React</li>
+<li>🌱 Improving through hands-on projects</li>
+<li>🚀 Always experimenting with new ideas</li>
+</ul>
 
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://github.githubassets.com/images/mona-whisper.gif" width="130" alt="GitHub Octocat" />
+<img src="./quote-banner.jpg" width="100%" alt="The less you care, the more you live"/>
 
 </td>
 </tr>
 </table>
 
----
+<hr/>
 
 <div align="center">
 
-## 📊 GitHub Statistics
+<h3>📊 GitHub Analytics</h3>
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages"/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true" alt="Contribution activity"/>
 
 </div>
 
----
+<hr/>
 
 <div align="center">
 
-## 📈 Contribution Graph
+<h3>⚙️ Languages · Frameworks · Tools</h3>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,cpp,git,github,vscode,mysql,vite&perline=6" alt="Tech stack"/>
 
 </div>
 
----
+<hr/>
 
 <div align="center">
 
-## ⚙️ Languages · Frameworks · Tools
+<h3>🚀 Explore My Work</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,cpp,git,github,vscode,mysql,vite&perline=6" alt="Programming languages and developer tools" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🖼️ A Little Reminder
-
-<img src="./quote-banner.jpg" width="100%" alt="The less you care, the more you live" />
-
-*Stay focused. Keep learning. Create your own path.*
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 My Projects
+<p>Learning, experimenting, and building one project at a time.</p>
 
 <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
 </a>
 
 <br/><br/>
 
-<sub>Currently learning and building. More projects coming soon.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08090D,100:243B55&height=100&section=footer" width="100%" alt="Footer"/>
 
----
-
-## 🤝 Connect With Me
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-
-<br/><br/>
-
-<sub>Thanks for visiting my profile! ✨</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:252B42,100:08090D&height=100&section=footer" width="100%" />
+<p><sub>✦ Keep learning. Keep building. ✦</sub></p>
 
 </div>
